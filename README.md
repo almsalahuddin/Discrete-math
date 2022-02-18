@@ -1,1 +1,1 @@
-# Data-Mining
+# Discrete-math
